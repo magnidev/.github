@@ -2,7 +2,7 @@
 
 ## 📞 Contact
 
-For a quick response, contact us for [Instagram](https://instagram.com/magnidevelopment "@magnidevelopment") or message us by Email in our [Profesional Email](mailto:contact@magni.dev "contact@magni.dev").
+For a quick response, contact us for [Instagram](https://links.magni.dev/instagram) or message us by email at our [Profesional Email](https://links.magni.dev/email).
 
 <!--
 
